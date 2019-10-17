@@ -2,6 +2,16 @@
    color:red; 
 }
 img{
-    float: left;
+    float:right;
 
+}
+.sidebars{
+    float: left;
+    width: 30%;
+    background-color: seagreen;
+}
+.column{
+    width: 350px;
+    color:blue;
+    float: left;
 }
