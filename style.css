@@ -15,3 +15,10 @@ img{
     color:blue;
     float: left;
 }
+.text-box{
+    border: blue;
+    border:2px solid red
+}
+body{
+    font-family: fantasy;
+}
